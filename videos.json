@@ -1,0 +1,95 @@
+{
+  "hero": "",
+  "real-estate": [
+    {
+      "title": "Showflat Speedramp Edit",
+      "url": "https://youtu.be/2etZeodi7OE"
+    },
+    {
+      "title": "3d Tracking of property",
+      "url": "https://youtu.be/uc4YvtAG7ls"
+    },
+    {
+      "title": "Map animations",
+      "url": "https://youtu.be/KmyLGnJLCRk"
+    },
+    {
+      "title": "Asteria Speedramp",
+      "url": "https://youtu.be/eBXaCWBNLTc"
+    }
+  ],
+  "brand-films": [
+    {
+      "title": "Brand film 01",
+      "url": "https://www.youtube.com/watch?v=-0jir3dFFWI&t=466s"
+    },
+    {
+      "title": "Brand film 02",
+      "url": "https://youtu.be/zWzZSyBCJdo"
+    }
+  ],
+  "talking-head": [
+    {
+      "title": "Fraxxo Villas",
+      "url": "https://youtu.be/3nqwTIdbVqo"
+    },
+    {
+      "title": "Auction Arena",
+      "url": "https://youtu.be/Jn0iJJYcuuI"
+    },
+    {
+      "title": "Making of Crystal Ads",
+      "url": "https://www.youtube.com/shorts/0LC2CM3dDVw"
+    },
+    {
+      "title": "Coming soon",
+      "url": ""
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "podcast 1",
+      "url": "https://youtu.be/iBk9QGtYpgE"
+    },
+    {
+      "title": "podcast 2",
+      "url": "https://youtu.be/gPzbJTXMF7M"
+    },
+    {
+      "title": "podcast 3",
+      "url": "https://youtu.be/J6Y7dFrPjWQ"
+    }
+  ],
+  "cinematic": [
+    {
+      "title": "Zynth Fest",
+      "url": "https://youtu.be/QukK7zYmbb8"
+    },
+    {
+      "title": "Ribat Video",
+      "url": "https://youtu.be/A-lWc2pUlTc"
+    },
+    {
+      "title": "Visions College Fest",
+      "url": "https://youtu.be/E26azrS-D44"
+    },
+    {
+      "title": "Azure Bliss Villa",
+      "url": "https://youtu.be/uDQY2q9SXaw"
+    }
+  ],
+  "short-films": [
+    {
+      "title": "Kaam 25",
+      "url": "https://youtu.be/2li1LOAjGXc"
+    },
+    {
+      "title": "One take (IFP)",
+      "url": "https://www.youtube.com/watch?v=wKtiyXHk1AQ"
+    },
+    {
+      "title": "Wazan",
+      "url": "https://youtu.be/Wy8sN-9isGA"
+    }
+  ]
+}
